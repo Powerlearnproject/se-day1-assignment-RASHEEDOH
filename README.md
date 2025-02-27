@@ -5,10 +5,21 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+software engineering- is the creation, testimg and implementation of digital solutions to solve real world problems
+it is important because:
+1.It allows us to come up with real time innovations to problems
+2.It assists in automation of mundane daily tasks 
+3.It helps organizations achieve goals and manage important tasks 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+Requirements specification
+it involves gathering all possible information regarding a software before development can begin
+Testing and debugging
+it involves identifying and correcting of all possible bugs and issues once a software solution has been developed
+Deployment
+It involves release of software solution to the market and It is usually the final step in the software development cycle
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
@@ -20,6 +31,8 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+An IDE is a unique software that allows for development and testing of realtime software solutions.Examples of such IDEs include Eclipse and Intellij
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
